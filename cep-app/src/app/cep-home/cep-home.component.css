@@ -1,0 +1,39 @@
+.home {
+    background-color: #ebf1ec;
+    width: 1800px;
+    padding: 50px;
+    color: rgb(41, 48, 41);
+
+}
+
+label {
+    display: flex;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+  
+}
+
+input {
+    padding: .5rem;
+    width: 10%;
+    box-sizing: border-box;
+    display: flex;
+  
+}
+
+input:focus {
+    outline: #60a075 auto 1px;
+
+}
+
+button {
+    margin-top: 10px;
+    background-color: rgb(168, 177, 170);
+    color: white;
+    padding: .5rem;
+    border: none;
+    font-size: 1rem;
+    margin-left: 45px;
+
+}

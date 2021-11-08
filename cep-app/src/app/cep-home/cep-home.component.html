@@ -1,0 +1,12 @@
+<div class="home">
+    <form [formGroup]="cepForm" (ngSubmit)="onSubmit()">
+        <div>
+            <label for="cep">
+              CEP:
+            </label>
+            <input id="cep" type="text" formControlName="cep" required>
+          </div>
+
+        <button class="button" type="submit">Pesquisar</button>
+    </form>
+</div>

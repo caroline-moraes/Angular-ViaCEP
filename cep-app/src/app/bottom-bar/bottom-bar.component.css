@@ -1,0 +1,10 @@
+.bottom-bar{
+    background-color: silver;
+    color: rgb(14, 94, 39);
+    display: flex;
+    position: relative;
+    top: 610px; 
+    bottom: 0;
+    justify-content: center;
+    height: 60px;
+}

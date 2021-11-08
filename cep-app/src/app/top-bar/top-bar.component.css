@@ -1,0 +1,13 @@
+.top-bar {
+    background-color: green;
+    display: flex;
+    
+    padding-left: 55px;
+    padding-right: 45px;
+}
+
+.top-bar .title {
+    color: honeydew;
+}
+
+a:link {text-decoration: none;}
